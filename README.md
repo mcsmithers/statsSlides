@@ -14,3 +14,4 @@ npm install
 ```
 
 Then run ```npm run dev``` to start the server, and open your browser at [http://localhost:8080](http://localhost:8080) to see the slideshows.
+# statsSlides
